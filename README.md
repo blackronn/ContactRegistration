@@ -27,7 +27,7 @@ Kurulum ve Çalıştırma | Setup and Run
 Repoyu klonlayın veya indirin
 Clone or download the repository:
 
-git clone https://github.com/kullaniciAdi/contact-management.git
+git clone https://github.com/blackronn/ContactRegistration.git
 
 
 SQL Server'da yeni bir veritabanı oluşturun
